@@ -1,0 +1,11 @@
+{
+  "name": "memory_graph",
+  "version": "1.0.0",
+  "description": "Memory Graph",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric London",
+  "license": "MIT"
+}
