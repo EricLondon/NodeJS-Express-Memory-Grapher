@@ -26,4 +26,5 @@ http://localhost:3000
 ```
 
 Screenshot:
+
 ![Memory Graph](https://github.com/EricLondon/NodeJS-Express-Memory-Grapher/blob/master/screenshot.png?raw=true "Memory Graph")
